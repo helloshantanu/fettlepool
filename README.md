@@ -1,6 +1,6 @@
 # Fettlepool  
 <img src="https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/logo.webp" height=" 150px"  width="150px" align="right">
-fettle Pool is your go-to health station, where you have seamless access to all verticals of fitness and health. We organise lively work-outs sessionwise, where you'll pay a minimal fee of ₹50 per day only when you'll come. We are using a smart card for payments and access to the fitness centres. The smart card can be recharged as per utilistaion by the app. An in-house organic beverages cafe gives you an easy reach to clean and healthy beverages. The cherry on the cake, every Sunday we organise outdoor fitness activities like trekking, marathon, rock climbing, and many more. Our Motto, We are, #CelebratingFitnessAndLife.  
+Fettle Pool is your go-to health station, where you have seamless access to all verticals of fitness and health. We organise lively work-outs sessionwise, where you'll pay a minimal fee of ₹50 per day only when you'll come. We are using a smart card for payments and access to the fitness centres. The smart card can be recharged as per utilistaion by the app. An in-house organic beverages cafe gives you an easy reach to clean and healthy beverages. The cherry on the cake, every Sunday we organise outdoor fitness activities like trekking, marathon, rock climbing, and many more. Our Motto, We are, #CelebratingFitnessAndLife.  
 
 ### Our Products:
 Fettle Pool Fitness Center: Session at fettle pool is designed to be energetic and of course, fun to do, which are led by experienced trainers. Workouts include HIIT, Agility Training, Kettle-bell work-outs, and Full body power work-outs. The joy of joys, with over 200+ workouts, you have something new to do each day of the month. you'll not repeat the same workout before 30 days. All the days are goal oriented, each day of the week focuses on weight loss, stamina, strength flexibility lean, and agility covering all goals, giving you more boom for your buck. Additional Bonus, you can join any Fettle Pool, in any locality, or any city by paying nothing. 
@@ -22,6 +22,22 @@ It is a fitness drug we have invented to bring fitness as a culture. Explore the
 ### Try it out on
 [![](https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/playstore.png)](https://play.google.com/store/apps/details?id=com.fettlepool2019&hl=en_IN)
 ![](https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/appstore.png)
+
+
+### Screenshots
+
+
+![thumbnail][logo1] ![thumbnail][logo2] ![thumbnail][logo3] ![thumbnail][logo4] ![][logo5] ![][logo6] 
+
+
+[logo1]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/1.webp
+[logo2]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/2.webp
+[logo3]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/3.webp
+[logo4]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/4.webp
+[logo5]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/5.webp
+[logo6]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/6.webp
+
+
 
 ### Product Demo
 
