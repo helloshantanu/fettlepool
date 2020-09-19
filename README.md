@@ -1,4 +1,5 @@
-# Fettlepool
+# Fettlepool  
+<img src="https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/logo.webp" height=" 150px"  width="150px" align="right">
 fettle Pool is your go-to health station, where you have seamless access to all verticals of fitness and health. We organise lively work-outs sessionwise, where you'll pay a minimal fee of ₹50 per day only when you'll come. We are using a smart card for payments and access to the fitness centres. The smart card can be recharged as per utilistaion by the app. An in-house organic beverages cafe gives you an easy reach to clean and healthy beverages. The cherry on the cake, every Sunday we organise outdoor fitness activities like trekking, marathon, rock climbing, and many more. Our Motto, We are, #CelebratingFitnessAndLife.  
 
 ### Our Products:
@@ -16,4 +17,11 @@ It is a fitness drug we have invented to bring fitness as a culture. Explore the
 - Free monthly body composition check-up to make sure you are on track. 
 - Hassle-free access to every Fettle Pool fitness centre, in any city, without paying any additional transfer fees. 
 - Healthy and organic beverages, including pre-workout and post-workout beverages.
--
+
+
+### Try it out on
+[![](https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/playstore.png)](https://play.google.com/store/apps/details?id=com.fettlepool2019&hl=en_IN)
+![](https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/appstore.png)
+
+### Product Demo
+
