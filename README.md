@@ -19,7 +19,7 @@
   </p>
 </p>
 
-<p align="center">Android App and Backend Managment System for Fettle Inc.</p>
+<p align="center">Android App and Backend Managment System for Fettlepool Inc.</p>
 
 ## ✨ Features
 
