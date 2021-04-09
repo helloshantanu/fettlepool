@@ -1,27 +1,123 @@
-# Fettlepool  
-<img src="https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/logo.webp" height=" 150px"  width="150px" align="right">
-Fettle Pool is your go-to health station, where you have seamless access to all verticals of fitness and health. We organise lively work-outs sessionwise, where you'll pay a minimal fee of ₹50 per day only when you'll come. We are using a smart card for payments and access to the fitness centres. The smart card can be recharged as per utilistaion by the app. An in-house organic beverages cafe gives you an easy reach to clean and healthy beverages. The cherry on the cake, every Sunday we organise outdoor fitness activities like trekking, marathon, rock climbing, and many more. Our Motto, We are, #CelebratingFitnessAndLife.  
+<br />
+<p align="center">
+  <a href="https://ipl-demo-app.vercel.app/">
+    <img src="https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/logo.webp" alt="Fettle Pool App Logo"  height="140">
+  </a>
+  <h3 align="center">Your go-to health station</h3>
 
-### Our Products:
-Fettle Pool Fitness Center: Session at fettle pool is designed to be energetic and of course, fun to do, which are led by experienced trainers. Workouts include HIIT, Agility Training, Kettle-bell work-outs, and Full body power work-outs. The joy of joys, with over 200+ workouts, you have something new to do each day of the month. you'll not repeat the same workout before 30 days. All the days are goal oriented, each day of the week focuses on weight loss, stamina, strength flexibility lean, and agility covering all goals, giving you more boom for your buck. Additional Bonus, you can join any Fettle Pool, in any locality, or any city by paying nothing. 
+  <p align="center">
+    <img alt="ISSUES" src="https://img.shields.io/github/issues/helloshantanu/fettlepool" />
+    <img alt="STARS" src="https://img.shields.io/github/stars/helloshantanu/fettlepool" />
+  </p>
 
-### Fettle Pool Organic Shakes:
-It is the quickest way to fulfil your daily nutritional needs. From pre-workout &amp; post-workout to fulfil the sudden craving of milkshakes or smoothies, we have got your back. We prepare all our beverages using organic ingredients and yet at a reasonable cost, remember our motto? :) Our beverages are balanced and nutrition counted to meet your daily nutritional needs. Visit our store or place your order through our delivery partners (you know if you know).  DO YOU KNOW, smoothies are nutrient powerhouses, the nutrients in smoothies are released, they directly get absorbed into the bloodstream.  LSD(Life Saving Do's) 
+  <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.fettlepool2019&hl=en_IN">View Demo</a>
+    ·
+    <a href="https://github.com/helloshantanu/fettlepool/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/helloshantanu/fettlepool/issues">Request Feature</a>
+  </p>
+</p>
 
-### Work-outs:
-It is a fitness drug we have invented to bring fitness as a culture. Explore the outdoors, yet fitness being the core of it. On Sunday, we organise trekking, rock climbing, marathon, and many more such activities so spend it feel like a Sunday and yet you are achieving your fitness goals. These activities are lead by well-experienced professionals and experts. From now Wednesday is the day for your mind to relax and have fun. On Wednesday, we organise yoga, Zumba, Pilates, In addition to this we also organise workshops on physiotherapy, Diet, and nutrients. This will help you achieve your peace of mind, reduce stress, improve focus, and calm mind.  Bonus part- to join any of the LSD workouts, you don't need to be a member of Fettle Pool, it is open for all adventure freaks out there. Of course, members will have a bit more privileges though. 
+<p align="center">Android App and Backend Managment System for Fettle Inc.</p>
 
- ### 5 Perks come along:
-- Pay only when you work out. 
-- Work out kit for you upon joining.
-- Free monthly body composition check-up to make sure you are on track. 
-- Hassle-free access to every Fettle Pool fitness centre, in any city, without paying any additional transfer fees. 
-- Healthy and organic beverages, including pre-workout and post-workout beverages.
+## ✨ Features
 
+- Record Gym Sessions
+- Entry via RFID cards 
+- Buy Organic Shakes
+- Track Work-outs
+- Manage Users at one place
+- Approve / Block cards
+
+## Tech Stack
+
+| Stack    | -                                                                                                  | -                                                                                                 | -                                                                                                | -                                                                                                                | -                                                                                                   |
+| -------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| FrontEnd | <p align="center"><img src="https://github.com/anuraghazra/BugVilla/raw/master/assets/reactjs_logo.png" width="100" height="100"> <br />Reactjs</p> | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="100" height="100"> <br />Javascript</p>  | <p align="center"><img src="https://github.com/anuraghazra/BugVilla/raw/master/assets/redux_logo.png" width="100" height="100"> <br />Redux</p>   | <p align="center"><img src="https://github.com/anuraghazra/BugVilla/raw/master/assets/styledcompo_logo.png" width="100" height="100"> <br />Styled Components</p> | <p align="center"><img src="https://github.com/helloshantanu/fettlepool/blob/master/assets/logo_flutter_1080px_clr.png" width="100" height="100"> <br />Flutter </p>       |
+| BackEnd  | <p align="center"><img src="https://github.com/anuraghazra/BugVilla/blob/master/assets/nodejs_logo.png" width="100" height="100"> <br />Nodejs</p>   | <p align="center"><img src="https://github.com/anuraghazra/BugVilla/blob/master/assets/mongo_logo2.png" width="100" height="100"> <br />MongoDB</p> | <p align="center"><img src="https://github.com/anuraghazra/BugVilla/blob/master/assets/express_logo.png" width="100" height="100"> <br />Express</p> 
+
+## :fire: Steps Taken to Reduce Load Time
+- Reduced Network Payload
+- Reduced Image Size
+- Can Use CSS Minifiers like PurgeCSS (Not Implemented)
+- Used Lazy Loading feature of React
+
+Start developing locally.
+
+### Step 1: Clone the repo
+Fork the repository. then clone the repo locally by doing -
+
+```sh
+git clone https://github.com/helloshantanu/fettlepool.git
+```
+
+### Step 2: Install Dependencies
+cd into the directory
+
+```sh
+cd fettlepool
+```
+
+In the root folder do npm install.
+```sh
+npm install
+
+
+### Step 3: Setup .env (optional)
+To run the server you will also need to provide the `.env` variables
+
+- create a new file .env in the root
+- open [.env.EXAMPLE](./.env.EXAMPLE)
+- copy the contents and paste it to the .env with valid keys
+
+#### And you are good to go
+```sh
+npm run start
+```
+#### for a Build
+```sh
+npm run build
+```
+
+## :open_file_folder: What's inside?
+
+A quick look at the folder structure of this project.
+    
+    .
+    ├── fettlepool
+    |   ├─Fettlepool-Admin-master
+    │     ├───public
+    │     ├───src
+    |   ├─Fettlepool-Backend-master
+    │     ├───controllers
+    │     ├───helpers
+    │     ├───images
+    │     ├───models
+    │     ├───routes
+    │     └───services
+    │    `└───views
+    |   ├─assets
+    │   
+
+## :v: Contributing
+
+After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
+
+### Pushing the changes
+
+```bash
+git add .
+git commit -m "feat: added new stuff"
+git push YOUR_REPO_URL develop
+```
+
+------
+
+Made with :heart: by the team at <a href="https://www.sterlingmedialabs.com/">Sterling Media Labs</a>!!
 
 ### Try it out on
 [![](https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/playstore.png)](https://play.google.com/store/apps/details?id=com.fettlepool2019&hl=en_IN)
-![](https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/appstore.png)
 
 
 ### Screenshots
@@ -36,8 +132,4 @@ It is a fitness drug we have invented to bring fitness as a culture. Explore the
 [logo4]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/4.webp
 [logo5]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/5.webp
 [logo6]: https://raw.githubusercontent.com/helloshantanu/fettlepool/master/assets/6.webp
-
-
-
-### Product Demo
 
