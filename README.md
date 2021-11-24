@@ -20,6 +20,7 @@
 </p>
 
 <p align="center">Android App and Backend Managment System for Fettlepool Inc.</p>
+
 ## ℹ️ Introduction
 
 Fettlepool is RFID based GYM Management System for modern GYM's. The idea behind the project was to allow members to work out at any partner gym on Pay per Session basis rather than joining an annual/monthly membership. It is a complete contactless solution with Mobile App, Gym wallet and Cloud-based Management System to manage members across all fitness centres.
